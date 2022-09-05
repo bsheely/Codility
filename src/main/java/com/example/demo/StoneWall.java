@@ -1,4 +1,4 @@
-package com.example.demo.codility;
+package com.example.demo;
 
 import java.util.Stack;
 

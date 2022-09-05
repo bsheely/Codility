@@ -1,4 +1,4 @@
-package com.example.demo.codility;
+package com.example.demo;
 
 public class MaxDoubleSliceSum {
 

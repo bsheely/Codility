@@ -9,16 +9,16 @@ This repository also contains the code that I wrote for 7 of the practice proble
 Links to the task descriptions for those problems are shown below.
 
 ## Task Descriptions
-[Count Factors](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/CountFactors.html)
+[Count Factors](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/count_factors/)
 
-[EquiLeader](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/EquiLeader.html)
+[EquiLeader](https://app.codility.com/programmers/lessons/8-leader/equi_leader/)
 
-[Flags](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/Flags.html)
+[Flags](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/flags/)
 
-[Max Double Slice Sum](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/MaxDoubleSliceSum.html)
+[Max Double Slice Sum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_double_slice_sum/)
 
-[Max Slice Sum](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/MaxSliceSum.html)
+[Max Slice Sum](https://app.codility.com/programmers/lessons/9-maximum_slice_problem/max_slice_sum/)
 
-[Min Perimeter Rectangle](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/MinPerimeterRectangle.html)
+[Min Perimeter Rectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
 
-[Stone Wall](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/StoneWall.html)
+[Stone Wall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)

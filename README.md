@@ -10,9 +10,15 @@ Links to the task descriptions for those problems are shown below.
 
 ## Task Descriptions
 [Count Factors](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/CountFactors.html)
+
 [EquiLeader](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/EquiLeader.html)
+
 [Flags](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/Flags.html)
+
 [Max Double Slice Sum](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/MaxDoubleSliceSum.html)
+
 [Max Slice Sum](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/MaxSliceSum.html)
+
 [Min Perimeter Rectangle](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/MinPerimeterRectangle.html)
+
 [Stone Wall](https://github.com/bsheely/Codility/tree/master/src/main/resources/task_descriptions/StoneWall.html)

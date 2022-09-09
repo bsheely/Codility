@@ -1,11 +1,11 @@
 ## Codility Scores
-This repository contains scores of 30 Codility practice problems from their web site.
+This repository contains scores of 31 Codility practice problems from their web site.
 The scores are located in the resources/scores directory. The scores shown are the
 total scores which are based on a correctness score and a performance score. The
-correctness scores for all 30 problems are 100%. Total scores of less than 100% are
+correctness scores for all 31 problems are 100%. Total scores of less than 100% are
 the result of performance scores that are less than 100%. 
 
-This repository also contains the code that I wrote for 7 of the practice problems.
+This repository also contains the code that I wrote for 8 of the practice problems.
 Links to the task descriptions for those problems are shown below.
 
 ## Task Descriptions
@@ -22,3 +22,5 @@ Links to the task descriptions for those problems are shown below.
 [Min Perimeter Rectangle](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/min_perimeter_rectangle/)
 
 [Stone Wall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/)
+
+[Peaks](https://app.codility.com/programmers/lessons/10-prime_and_composite_numbers/peaks/)
